@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|c:\\users\\53278369831\\desktop\\mvc-biblioteca\\mvc-biblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|solutionrelative:mvc-biblioteca\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|c:\\users\\53278369831\\desktop\\mvc-biblioteca\\mvc-biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|solutionrelative:mvc-biblioteca\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|c:\\users\\53278369831\\desktop\\mvc-biblioteca\\mvc-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C25EB5A-E3A7-C684-31A5-8B2E2511392D}|MVC-Biblioteca\\MVC-Biblioteca.csproj|solutionrelative:mvc-biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC-Biblioteca\\appsettings.json",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\appsettings.json",
+              "RelativeToolTip": "MVC-Biblioteca\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-16T12:52:07.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-Biblioteca\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "MVC-Biblioteca\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-16T13:22:24.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\MVC-Biblioteca\\MVC-Biblioteca\\Program.cs",
+              "RelativeToolTip": "MVC-Biblioteca\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T13:13:09.688Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
