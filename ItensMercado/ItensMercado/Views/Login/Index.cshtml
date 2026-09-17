@@ -1,0 +1,28 @@
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Mercado</title>
+</head>
+<body>
+    <header>
+        <h1>Bem Vindo!</h1>
+        <h2>Login</h2>
+    </header>
+
+    <form asp-action="Entrar" asp-controller="Login" method="post">
+        <label for="email">E-mail:</label>
+        <input type="email" name="email" id="email" placeholder="Digite seu E-mail..." required/>
+
+        <label for="senha">Senha:</label>
+        <input type="password" name="senha" id="senha" placeholder="*********" required/>
+
+        <button type="submit">ENTRAR</button>
+    </form>
+</body>
+</html>

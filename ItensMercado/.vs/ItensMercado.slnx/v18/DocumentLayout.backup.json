@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\itensmercado\\itensmercado\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|solutionrelative:itensmercado\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\itensmercado\\itensmercado\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|solutionrelative:itensmercado\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\itensmercado\\itensmercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|solutionrelative:itensmercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\itensmercado\\itensmercado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBA26FCA-E3C4-4AA1-958E-8E4E75EF8DA3}|ItensMercado\\ItensMercado.csproj|solutionrelative:itensmercado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ItensMercado\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ItensMercado\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:45:20.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "ItensMercado\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "ItensMercado\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-17T11:33:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Program.cs",
+              "RelativeDocumentMoniker": "ItensMercado\\Program.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\Program.cs",
+              "RelativeToolTip": "ItensMercado\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:24:04.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\appsettings.json",
+              "RelativeDocumentMoniker": "ItensMercado\\appsettings.json",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\ItensMercado\\ItensMercado\\appsettings.json",
+              "RelativeToolTip": "ItensMercado\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-17T11:16:02.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
