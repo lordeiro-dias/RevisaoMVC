@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|c:\\users\\53278369831\\desktop\\revisaomvc\\cafeteriamvc\\cafeteriamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0794C812-172B-4A2D-BA04-D683FA5D738F}|CafeteriaMVC\\CafeteriaMVC.csproj|solutionrelative:cafeteriamvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CafeteriaMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:50:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CafeteriaMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T11:43:16.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "CafeteriaMVC\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwC0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:25:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "CafeteriaMVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T11:20:56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\Program.cs",
+              "RelativeToolTip": "CafeteriaMVC\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T11:17:09.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "CafeteriaMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\53278369831\\Desktop\\RevisaoMVC\\CafeteriaMVC\\CafeteriaMVC\\appsettings.json",
+              "RelativeToolTip": "CafeteriaMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-18T11:13:57.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
